@@ -1,0 +1,26 @@
+{
+  "name": "pagina_web-festivalmusica",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richrd-321/Pagina_Web---Festival_De_Musica.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Richard M. Pereira Chinchero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richrd-321/Pagina_Web---Festival_De_Musica/issues"
+  },
+  "homepage": "https://github.com/Richrd-321/Pagina_Web---Festival_De_Musica#readme",
+  "devDependencies": {
+    "sass": "^1.52.3"
+  }
+}
